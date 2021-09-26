@@ -1,3 +1,11 @@
+.cart{
+    margin-left: 10px;
+}
+.cart h4{
+    background: #fff3f1;
+    padding: 10px;
+    color: #63322a;
+}
 .cart_item{
     list-style: none;
     display: flex;
@@ -8,4 +16,5 @@
 }
 .cart_item img{
     width: 50px;
+    padding: 5px 10px;
 }

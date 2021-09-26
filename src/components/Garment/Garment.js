@@ -19,9 +19,6 @@ const Garment = () => {
             <div>
             <div className="garment-container">
                 <div className="employee-container">
-                    <div className="total_employee">
-                    <h3>Employees: {employees.length} </h3>
-                    </div>
                     <div className="employee">
                     {
                         employees.map( employee => <Workers 

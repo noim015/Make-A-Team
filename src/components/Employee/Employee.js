@@ -12,14 +12,12 @@ const Workers = (props) => {
                     <img src={img} alt="" />
                 </div>
                 <div className="profile">
-                    
-                        <h3>Name: <small>{name}</small> </h3>
-                        <h4>Designation: {designation}</h4>
-                        <h4>Department: {department}</h4>
-                        <h3>Age: <small>{age}</small> </h3>
-                        <h4>Salary: {salary}</h4>
-                        <h4>Working For: {workingfor}</h4>
-                    
+                        <h3><b>Name:</b> <small>{name}</small> </h3>
+                        <h4><b>Designation:</b> {designation}</h4>
+                        <h4><b>Department:</b> {department}</h4>
+                        <h3><b>Age:</b> <small>{age}</small> </h3>
+                        <h4><b>Salary:</b> {salary}</h4>
+                        <h4><b>Working For:</b> {workingfor}</h4>
                     <div>
                     <button className="btn-regular" onClick={()=>props.handleAddToCart(props.employee)}> {element} Add To Cart</button>
                     </div>
