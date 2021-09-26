@@ -10,7 +10,7 @@ The live link for the website is [Make A Team](https://relaxed-hamilton-a4a9be.n
 - Added member appears with image
 - Very fast loading and response smoothly
 
-## Build With
+## Built With
 - HTML
 - CSS
 - Javascript (React JS)
