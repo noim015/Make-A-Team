@@ -14,7 +14,7 @@ const Cart = (props) => {
               <h3><FontAwesomeIcon icon={faDollarSign} /> Total Cost: {total} </h3>
               <h4>Employees:  </h4> {
                   cart.map(employee => 
-                      <li className="cart_item" ><img src={employee.img} alt="" />{employee.name}</li> 
+                      <li key={employee.id+Math.random()} className="cart_item" ><img src={employee.img} alt="" />{employee.name}</li> 
                   )
               }
         </div>
