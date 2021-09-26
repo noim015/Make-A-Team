@@ -1,4 +1,4 @@
-# Make A Team For Your Upcoming Project
+# Make A Team
 
 The live link for the website is [Make A Team](https://relaxed-hamilton-a4a9be.netlify.app/).
 
