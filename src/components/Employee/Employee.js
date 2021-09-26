@@ -3,10 +3,10 @@ import './Employee.css';
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 const Workers = (props) => {
+    //Shopping Cart Icon
     const element = <FontAwesomeIcon icon={faShoppingCart} />
     const {name,designation,age,salary,img,department,workingfor} = props.employee;
-    return (
-        
+    return (        
             <div className="worker">
                 <div>
                     <img src={img} alt="" />
@@ -18,12 +18,11 @@ const Workers = (props) => {
                         <h3><b>Age:</b> <small>{age}</small> </h3>
                         <h4><b>Salary:</b> {salary}</h4>
                         <h4><b>Working For:</b> {workingfor}</h4>
-                    <div>
-                    <button className="btn-regular" onClick={()=>props.handleAddToCart(props.employee)}> {element} Add To Cart</button>
-                    </div>
+                     <div>
+                        <button className="btn-regular" onClick={()=>props.handleAddToCart(props.employee)}> {element} Add To Cart</button>
+                     </div>
                 </div>
             </div>
-       
     );
 };
 

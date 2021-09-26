@@ -3,9 +3,9 @@
         "id":"GW10",
         "name":"Rakib Ahmed",
         "designation":"SV",
-        "age":35,
-        "salary":15000,
-        "workingfor":5,
+        "age":40,
+        "salary":25000,
+        "workingfor":10,
         "department":"Fabric Store",
         "img":"https://www.nydailynews.com/resizer/tHY5TsHsPliBmOqPBMdAg3SPLZE=/800x1057/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/UEE6HAS5VPXXAFAUR37S5Y3ULM.jpg"
     },
@@ -13,9 +13,9 @@
         "id":"GW11",
         "name":"Sifat Abdullah",
         "designation":"Worker",
-        "age":32,
-        "salary":12500,
-        "workingfor":3,
+        "age":35,
+        "salary":14500,
+        "workingfor":6,
         "department":"Sewing floor",
         "img":"https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_29/2936276/190618-tim_fitzsimons-byline1475.jpg"
     },
@@ -23,9 +23,9 @@
         "id":"GW12",
         "name":"Moshiur Rahman",
         "designation":"Worker",
-        "age":34,
-        "salary":14500,
-        "workingfor":6,
+        "age":32,
+        "salary":12500,
+        "workingfor":4,
         "department":"Packing Section",
         "img":"https://wpcdn.us-east-1.vip.tn-cloud.net/www.41nbc.com/content/uploads/2021/02/tim_fitzsimons_byline_image_d648441d7371775ad23dcf95e1ba7783-1.jpg"
     },
@@ -33,9 +33,9 @@
         "id":"GW13",
         "name":"Shafiur Abdullah",
         "designation":"Worker",
-        "age":40,
+        "age":46,
         "salary":17000,
-        "workingfor":7,
+        "workingfor":8,
         "department":"Cutting Section",
         "img":"http://greginhollywood.com/wordpress/wp-content/uploads/10998313_10153130480067451_768335489998868857_n-400x400.jpg"
     },
@@ -45,7 +45,7 @@
         "designation":"QC",
         "age":38,
         "salary":15500,
-        "workingfor":6,
+        "workingfor":9,
         "department":"Quality Checking",
         "img":"https://www.deque.com/wp-content/uploads/2019/11/matt-allen-400x400.png"
     },
@@ -53,9 +53,9 @@
         "id":"GW15",
         "name":"Josim Rahman",
         "designation":"Worker",
-        "age":31,
-        "salary":11500,
-        "workingfor":3,
+        "age":35,
+        "salary":13500,
+        "workingfor":6,
         "department":"Embroidery Section",
         "img":"https://www.bolde.com/wp-content/uploads/2020/09/iStock-1269607964-400x400.jpg"
     },
@@ -63,10 +63,10 @@
         "id":"GW16",
         "name":"Jahid Hasan",
         "designation":"Worker",
-        "age":39,
-        "salary":18000,
-        "workingfor":8,
-        "department":"Embroidery Section",
+        "age":32,
+        "salary":14500,
+        "workingfor":4,
+        "department":"Fabric Store",
         "img":"https://guyrothblum.files.wordpress.com/2014/11/guy_rothblum_square.jpg"
     },
     {
@@ -76,13 +76,13 @@
         "age":36,
         "salary":13500,
         "workingfor":5,
-        "department":"Embroidery Section",
+        "department":"Finishing Section",
         "img":"https://www.gwinnettsmiles.com/assets/images/missing-1.jpg"
     },
     {
         "id":"GW18",
         "name":"Mirza Beg",
-        "designation":"Worker",
+        "designation":"QC",
         "age":36,
         "salary":14000,
         "workingfor":6,
@@ -92,11 +92,11 @@
     {
         "id":"GW19",
         "name":"Khairul Basar",
-        "designation":"Worker",
+        "designation":"PM",
         "age":33,
         "salary":14000,
         "workingfor":4,
-        "department":"Embroidery Section",
+        "department":"Printing Section",
         "img":"https://lh3.googleusercontent.com/proxy/DgmBkPjSpt-UXaO40rHzTUPZK7KQMKOqZFZyCGgieyU4gj5nSRz8y4EreV081uAtzqgIoStu8ALGqHsrrWNpR242Cd-8xAm-gSIzPpkesXQ"
     }
     ]
