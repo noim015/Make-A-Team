@@ -5,7 +5,7 @@
         "designation":"SV",
         "age":35,
         "salary":15000,
-        "working for":5,
+        "workingfor":5,
         "department":"Fabric Store",
         "img":"https://cdn0.iconfinder.com/data/icons/social-media-network-4/48/male_avatar-512.png"
     },
@@ -15,7 +15,7 @@
         "designation":"Worker",
         "age":32,
         "salary":12500,
-        "working for":3,
+        "workingfor":3,
         "department":"Sewing floor",
         "img":"http://www.saptapadi.co/vvpics/male.png"
     },
@@ -25,7 +25,7 @@
         "designation":"Worker",
         "age":34,
         "salary":14500,
-        "working for":6,
+        "workingfor":6,
         "department":"Packing Section",
         "img":"https://cdn2.iconfinder.com/data/icons/flat-style-svg-icons-part-1/512/user_man_male_profile_account-512.png"
     },
@@ -35,7 +35,7 @@
         "designation":"Worker",
         "age":40,
         "salary":17000,
-        "working for":7,
+        "workingfor":7,
         "department":"Cutting Section",
         "img":"http://jonaisinghevents.com/wp-content/uploads/2020/01/7-512.png"
     },
@@ -45,7 +45,7 @@
         "designation":"QC",
         "age":38,
         "salary":15500,
-        "working for":6,
+        "workingfor":6,
         "department":"Quality Checking",
         "img":"https://cdn.pixabay.com/photo/2017/01/31/21/23/avatar-2027366_1280.png"
     },
@@ -55,7 +55,7 @@
         "designation":"Worker",
         "age":31,
         "salary":11500,
-        "working for":3,
+        "workingfor":3,
         "department":"Embroidery Section",
         "img":"https://icon-library.com/images/icon-avatars/icon-avatars-20.jpg"
     },
@@ -65,7 +65,7 @@
         "designation":"Worker",
         "age":39,
         "salary":18000,
-        "working for":8,
+        "workingfor":8,
         "department":"Embroidery Section",
         "img":"https://icon-library.com/images/icon-avatars/icon-avatars-20.jpg"
     },
@@ -75,7 +75,7 @@
         "designation":"Worker",
         "age":36,
         "salary":13500,
-        "working for":5,
+        "workingfor":5,
         "department":"Embroidery Section",
         "img":"https://icon-library.com/images/icon-avatars/icon-avatars-20.jpg"
     },
@@ -85,7 +85,7 @@
         "designation":"Worker",
         "age":36,
         "salary":14000,
-        "working for":6,
+        "workingfor":6,
         "department":"Embroidery Section",
         "img":"https://icon-library.com/images/icon-avatars/icon-avatars-20.jpg"
     },
@@ -95,7 +95,7 @@
         "designation":"Worker",
         "age":33,
         "salary":14000,
-        "working for":4,
+        "workingfor":4,
         "department":"Embroidery Section",
         "img":"https://icon-library.com/images/icon-avatars/icon-avatars-20.jpg"
     }

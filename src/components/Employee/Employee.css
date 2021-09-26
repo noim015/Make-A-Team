@@ -1,0 +1,30 @@
+.worker{
+    border: 1px solid lightgray;
+    margin-right: 15px;
+    text-align: center;
+    background: #fde7e5;
+    border-bottom: 10px solid #d98384;
+    margin-bottom: 15px;
+}
+.worker img{
+    width: 100px;
+    height: 100px;
+    padding-top: 10%;
+}
+.profile{
+    padding: 5% 0;
+    background: #fff6f5;
+}
+.data_left{
+    margin: 5px 20px;
+    border-left: 2px solid #524643;
+    padding: 0px 10px;
+}
+button{
+    background: #f15e30;
+    color: aliceblue;
+    padding: 15px 25px;
+    cursor: pointer;
+    border: 1px solid orange;
+    font-size: 18px;
+}

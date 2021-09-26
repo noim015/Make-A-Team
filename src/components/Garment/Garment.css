@@ -1,0 +1,22 @@
+.garment-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    max-width: 1260px;
+    margin: 0 auto;
+}
+.employee-container{
+    border-right: 2px solid lightgray;
+    margin-right: 5px;
+}
+
+.employee{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.total_employee{
+    background: #dfd1d1;
+    padding: 5px 15px;
+    color: #9d807e;
+    font-size: 18px;
+    margin: 10px 15px 10px 0px;
+}
