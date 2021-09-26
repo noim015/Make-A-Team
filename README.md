@@ -11,6 +11,6 @@ The live link for the website is [Make A Team](https://relaxed-hamilton-a4a9be.n
 - Very fast loading and response smoothly
 
 ## Build With
--HTML
--CSS
--Javascript (React JS)
+- HTML
+- CSS
+- Javascript (React JS)
